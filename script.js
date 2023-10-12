@@ -1,0 +1,1 @@
+alert("Welcome to amazon clone made by Amar Pratap Singh")
